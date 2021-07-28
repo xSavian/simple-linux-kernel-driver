@@ -1,0 +1,11 @@
+.vagrant
+.idea
+src/.tmp_versions
+src/main.mod.*
+src/Module.symvers
+src/connect_test
+src/*.cmd
+src/*.order
+src/*.ko
+src/main.o
+src/main.o
